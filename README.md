@@ -1,2 +1,2 @@
 # first_project
-Uploading my first project
+Uploading my first project in GitHub.
